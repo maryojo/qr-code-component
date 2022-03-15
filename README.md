@@ -54,4 +54,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Website - Mary Ojo
 - Frontend Mentor - [@maryojo](https://www.frontendmentor.io/profile/maryojo)
-- Twitter - [@maryojo_mo](https://www.twitter.com/yourusername)
+- Twitter - [@maryojo_mo](https://www.twitter.com/maryojo_mo)
