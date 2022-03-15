@@ -14,7 +14,7 @@ body{
   flex-direction: column;
   background-color:  hsl(0, 0%, 100%);
   width: 20%;
-  height: 70%;
+  height: 57vh;
   border-radius: 10px;
   box-shadow:  hsl(220, 15%, 55%) 0px 0.002px 2px;
   position: fixed;
@@ -39,4 +39,17 @@ body{
 .description{
   margin: 0;
   padding: 0 10px;
+}
+
+@media( max-width: 1366px){
+  .card{
+    height: 67vh;
+  }
+}
+
+@media(max-width: 375px){
+  .card{
+    height: 55vh;
+    width: 70%;
+  }
 }
